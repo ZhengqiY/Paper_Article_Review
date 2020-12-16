@@ -1,6 +1,7 @@
 # Paper and Article Review
 
 ## Paper
+  [1] Going Deeper in Spiking Neural Networks: VGG and Residual Architectures
 
 ## Article
 ### Gaussian Process
