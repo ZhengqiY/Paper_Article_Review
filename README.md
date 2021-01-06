@@ -1,9 +1,12 @@
 # Paper and Article Review
 
 ## Paper
+### Neuromorphic Computing
   [1] [Going Deeper in Spiking Neural Networks: VGG and Residual Architectures](https://www.frontiersin.org/articles/10.3389/fnins.2019.00095/full)
   
-  [2] [Online Learning of Feasible Strategies in Unknown Environments](https://arxiv.org/pdf/1604.02137.pdf)
+  [2] [Convolutional networks for fast, energy-efficient neuromorphic computing](https://www.pnas.org/content/113/41/11441)
+  
+  [3] [Online Learning of Feasible Strategies in Unknown Environments](https://arxiv.org/pdf/1604.02137.pdf)
 
 ## Article
 ### Gaussian Process
