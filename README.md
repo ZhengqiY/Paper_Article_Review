@@ -13,6 +13,8 @@
   [4] [Visualizing Group Dynamics based on Multiparty Meeting Understanding](https://www.ecse.rpi.edu/~rjradke/papers/zhang-emnlp18.pdf) 11/08/2021
   
   [5] [Applications of Human Motion Tracking: Smart Lighting Control](https://www.cv-foundation.org//openaccess/content_cvpr_workshops_2013/W13/papers/Chun_Applications_of_Human_2013_CVPR_paper.pdf) 11/08/2021
+  
+  [6] [CNN+LSTM Architecture for Speech Emotion Recognition with Data Augmentation](https://arxiv.org/pdf/1802.05630.pdf) 11/10/2021
 
 ## Article
 ### Gaussian Process
