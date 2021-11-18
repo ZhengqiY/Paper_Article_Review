@@ -15,6 +15,10 @@
   [5] [Applications of Human Motion Tracking: Smart Lighting Control](https://www.cv-foundation.org//openaccess/content_cvpr_workshops_2013/W13/papers/Chun_Applications_of_Human_2013_CVPR_paper.pdf) 11/08/2021
   
   [6] [CNN+LSTM Architecture for Speech Emotion Recognition with Data Augmentation](https://arxiv.org/pdf/1802.05630.pdf) 11/10/2021
+  
+  [7] [CNN Architectures for Large-Scale Audio Classification](https://arxiv.org/pdf/1609.09430v2.pdf) 11/15/2021
+  
+  [8] [Interpreting and Explaining Deep Neural Networks for Classification of Audio Signals](https://arxiv.org/pdf/1807.03418v2.pdf) 11/17/2021
 
 ## Article
 ### Gaussian Process
